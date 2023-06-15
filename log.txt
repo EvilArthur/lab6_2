@@ -1,0 +1,3 @@
+DEBUG: program start | Thu Jun 15 12:52:30 2023
+INFO: It works | Thu Jun 15 12:52:30 2023
+ERROR: RoflException | Thu Jun 15 12:52:30 2023
